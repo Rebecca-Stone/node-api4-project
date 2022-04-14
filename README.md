@@ -12,11 +12,11 @@ Your assignment page on Canvas should contain instructions for submitting this p
 
 - [ ] Build a simple API:
 
-  - Create a `.gitignore` file executing `npx gitignore node`
-  - Create a `package.json` file executing `npm init --y`
-  - Add Eslint to the project executing `npx eslint --init`
-  - Edit the `package.json` file to add `"start"` and `"server"` scripts
-  - Install `express`, `dotenv`, `cors`
+  - 💛 Create a `.gitignore` file executing `npx gitignore node`
+  - 💛 Create a `package.json` file executing `npm init --y`
+  - 💛 Add Eslint to the project executing `npx eslint --init`
+  - 💛 Edit the `package.json` file to add `"start"` and `"server"` scripts
+  - 💛 Install `express`, `dotenv`, `cors`
   - Add support for environment variables using an `.env` file and the dotenv library, providing fallbacks in the code
   - Flesh out the API:
 
